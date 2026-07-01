@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6q0058/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 法演禪師語錄
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T47/T47n1995.xml
+    old_id: T47n1995
+hash: sha256:4c4d7aad335977f133b3f1cfc17c1a666a883701daad79c4cf08c48f3d3dea82
