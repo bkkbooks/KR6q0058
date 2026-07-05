@@ -22,13 +22,14 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6q0058_000.yaml, hash: 'sha256:4c4d7aad335977f133b3f1cfc17c1a666a883701daad79c4cf08c48f3d3dea82'}
-  - {seq: 1, filename: KR6q0058_001.yaml, hash: 'sha256:1f34d66f5df53c663e28517d1f8687297695f884205b1db582f2671eba238b6e'}
-  - {seq: 2, filename: KR6q0058_002.yaml, hash: 'sha256:80923f6a7f36a163cc46647c8e7678a0a45a042576e41bdff899517f0a28bde1'}
-  - {seq: 3, filename: KR6q0058_003.yaml, hash: 'sha256:dd635ee0e9e3f772382d57770979c2fadf3d970b848efc0d6a78c7811a01199a'}
+  - {seq: 1, filename: KR6q0058_001.yaml, hash: 'sha256:42d15f0677b5e1e4e753dea6884f3fb085b1bce945999d22d3b4acd70f6ee90e'}
+  - {seq: 2, filename: KR6q0058_002.yaml, hash: 'sha256:05110e849cfd0fa329ee9d120524e8c56754a465f7836bd760fa37ae2ec51b7f'}
+  - {seq: 3, filename: KR6q0058_003.yaml, hash: 'sha256:9b38e2f224874d198a6003db1dde231868bc9113b142dde996f08e3316063d3b'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6q0058_001.markers.yaml, hash: 'sha256:44a78c443e96f42ebe056ac5b090c3d332df216fa087e1d9dbbd9a71973dbbb0'}
-  - {seq: 2, role: markers, filename: assets/KR6q0058_002.markers.yaml, hash: 'sha256:9285a55ddb352ae4f08ec9843cf70cae109436583d07ee07d1cc5dd4bb8a4256'}
-  - {seq: 3, role: markers, filename: assets/KR6q0058_003.markers.yaml, hash: 'sha256:02a28c39a5a76378143198777f933d2b8929fd708607c51685ce1649baa4b0c3'}
+  - {seq: 0, role: markers, filename: assets/KR6q0058_000.markers.yaml, hash: 'sha256:4632bafc140f7d6ef58fc19123c81030c00087401cf8980a81aea33b2b5c3db6'}
+  - {seq: 1, role: markers, filename: assets/KR6q0058_001.markers.yaml, hash: 'sha256:37f26f3b788cbef40c66bd412a308330a8dc3d1ab18e4e8c606147dfe97fd011'}
+  - {seq: 2, role: markers, filename: assets/KR6q0058_002.markers.yaml, hash: 'sha256:118015f6dd271f188fac4a9f261dc8f8d955b1c274d630859637e7038952bf9c'}
+  - {seq: 3, role: markers, filename: assets/KR6q0058_003.markers.yaml, hash: 'sha256:727ed21f9fe4b8c1804edaaefb5a22668643757e31e6cf0c267a6792204ea180'}
 table_of_contents:
 - ref:
     seq: 1
@@ -680,7 +681,4 @@ table_of_contents:
   label: 附錄序文(三首)
   type: mulu
   level: 1
-hash: sha256:e97a7eb887b0ccea72f531badf0c6b05b4f4a60fd0dd502d522c3363b8ec24c8
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:6a4147bb15795d046e7d3b4a6eabf092a8b17bd70752d08cc52c57519e933b0d
